@@ -1,4 +1,4 @@
-senha = prompt("SENHA:");
+senha = prompt("DIGITE A SENHA:");
 if (senha === ".lp9") {
  document.getElementById('pagina').style.display = 'block';
 } else if (senha === "") {
